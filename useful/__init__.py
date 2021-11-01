@@ -1,0 +1,1 @@
+# /useful/__init__.py
