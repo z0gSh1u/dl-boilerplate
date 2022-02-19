@@ -36,7 +36,8 @@ import torch
 import torch.nn as nn
 from torch.utils.tensorboard import SummaryWriter
 from torch.utils.data import DataLoader
-from torch.optim import optim, lr_scheduler
+import torch.optim as optim
+from torch.optim import lr_scheduler
 from useful.meter import AverageMeter
 
 from model import NETWORK_NAME
