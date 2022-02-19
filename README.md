@@ -13,6 +13,10 @@ This is the template I used to build a deep-learning project. It originates from
 
 ## Derive from This
 
+Click "Use this template" on GitHub.
+
+Or:
+
 ```sh
 git clone git@github.com:z0gSh1u/dl-boilerplate.git
 ```
